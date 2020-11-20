@@ -12,4 +12,5 @@ The raw data was submitted to GEO: GSE126974.
 
 Don't hesitate to [get in touch](https://abc.med.cornell.edu/) with questions related to the code.
 
-[zenodo DOI](https://zenodo.org/record/4282312)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4282312.svg)](https://doi.org/10.5281/zenodo.4282312)
+
