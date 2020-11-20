@@ -11,3 +11,5 @@ The individual scripts can be found in the respective folders of this repository
 The raw data was submitted to GEO: GSE126974.
 
 Don't hesitate to [get in touch](https://abc.med.cornell.edu/) with questions related to the code.
+
+[zenodo DOI](https://zenodo.org/record/4282312)
