@@ -14,3 +14,5 @@ Don't hesitate to [get in touch](https://abc.med.cornell.edu/) with questions re
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4282312.svg)](https://doi.org/10.5281/zenodo.4282312)
 
+![](WCM_MB_LOGO_HZSS1L_CLR_RGB.png)
+
